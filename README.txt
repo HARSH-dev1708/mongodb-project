@@ -3,10 +3,9 @@
  A MongoDB Database Project
 =====================================================================
 
-Student   : [Your Name]
-Roll No.  : [Your Roll Number]
-Course    : [Course / Subject Name]
-Teacher   : [Teacher Name]
+Student   : Harsh kumar
+Roll No.  : 202401100200149
+Course    : ADBMS
 Date      : 27 October 2026
 
 
